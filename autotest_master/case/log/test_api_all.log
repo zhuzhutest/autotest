@@ -1,0 +1,1231 @@
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 16:39:52total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 16:40:01
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 16:41:32total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 16:41:48
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 16:48:39total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 16:48:40
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 16:55:06total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 16:55:07
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 16:55:39total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 16:55:39
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 17:10:12total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 17:10:12
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 17:10:43total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company?type=managed 0
+	test_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 17:10:43
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 17:36:09total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_count_all
+	test_count_all pass
+		succeed to test the company?type=managed 0
+	test_count_all pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 17:36:10
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:05:48total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_get_company
+	test_get_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:05:48
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:27:16total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company?type=managed 0
+	test_check_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:27:16
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:28:48total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 18:28:51
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:30:26total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 18:30:29
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:33:34total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 18:33:36
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:33:40total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 18:33:43
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:41:02total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 18:41:58
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:54:23total cases: 3
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  2    succ:  2    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:55:15
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:55:43total cases: 3
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  2    succ:  1    fail:  1    Class:     test_company
+total:  2    succ:  1    fail:  1    Function:  test_create_fast
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+	test_create_fast fail
+		failed to test the company?type=managed 1
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:55:44
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:56:35total cases: 3
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  2    succ:  2    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:56:35
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:56:38total cases: 3
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  2    succ:  2    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:56:38
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:56:40total cases: 3
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  2    succ:  2    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:56:40
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:58:30total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 18:58:31
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 18:58:43total cases: 3
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  2    succ:  1    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+total:  1    succ:  1    fail:  0    Function:  test_count_common
+	test_count_common pass
+		succeed to test the company?type=managed 0
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 18:58:46
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:06:59total cases: 4
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  2    succ:  1    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 19:07:02
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:08:20total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 19:08:21
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:10:00total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 19:10:01
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:11:28total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+	test_create_fast pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 19:11:29
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:19:24total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 19:19:26
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:22:42total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 19:22:44
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:23:25total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  0    fail:  2    Function:  test_check_company
+	test_check_company fail
+		failed to test the company?type=managed 1
+	test_check_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 19:23:28
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:32:42total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company?type=managed 0
+	test_check_company pass
+		succeed to test the company?type=managed 0
+!!!end test 2015-04-15 19:32:43
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:35:14total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:35:15
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:35:37total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:35:38
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:37:00total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:37:00
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:37:36total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:37:36
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:38:50total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:38:51
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:41:21total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:41:21
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:43:02total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:43:03
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:43:38total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:43:39
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:44:28total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 19:44:29
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 19:49:21total cases: 4
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  4    succ:  0    fail:  4    Function:  test_company
+	test_company fail
+		failed to test the company?type=managed 1
+	test_company fail
+		failed to test the company?type=managed 1
+	test_company fail
+		failed to test the company?type=managed 1
+	test_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-15 19:49:26
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:02:10total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:02:11
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:03:29total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:03:30
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:06:16total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:06:16
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:06:23total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:06:23
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:06:54total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:06:54
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:08:07total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:08:07
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:09:00total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:09:00
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:10:41total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_company
+	test_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:10:42
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:13:18total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:13:19
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:14:32total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_check_company
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:14:33
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:17:12total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_get_managed
+	test_get_managed pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:17:12
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-15 20:17:40total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+	test_create_fast pass
+		succeed to test the company? 0
+	test_create_fast pass
+		succeed to test the company? 0
+!!!end test 2015-04-15 20:17:40
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 09:43:18total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_update_company
+	test_update_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-16 09:43:20
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 09:47:56total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_update_company
+	test_update_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-16 09:47:58
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 09:49:33total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_update_company
+	test_update_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-16 09:49:35
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 10:03:12total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_update_company
+	test_update_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-16 10:03:15
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 10:05:25total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_update_company
+	test_update_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 10:05:27
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:06:19total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_create_company
+	test_create_company fail
+		failed to test the company?type=managed 403
+!!!end test 2015-04-16 12:06:21
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:07:31total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_create_company
+	test_create_company fail
+		failed to test the company?type=managed 403
+!!!end test 2015-04-16 12:07:33
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:10:38total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_create_company
+	test_create_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 12:10:38
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:20:02total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_create_company
+	test_create_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 12:20:02
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:23:10total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  1    fail:  1    Function:  test_set_managed
+	test_set_managed pass
+		succeed to test the company? 0
+	test_set_managed fail
+		failed to test the company?type=managed 403
+!!!end test 2015-04-16 12:23:11
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:24:34total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_set_managed
+	test_set_managed pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 12:24:35
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:29:25total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  1    fail:  1    Function:  test_set_managed
+	test_set_managed fail
+		failed to test the company?type=managed 403
+	test_set_managed pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 12:29:27
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:29:59total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_set_managed
+	test_set_managed fail
+		failed to test the company?type=managed 403
+!!!end test 2015-04-16 12:30:03
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 12:30:14total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_set_managed
+	test_set_managed pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 12:30:14
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 13:22:09total cases: 2
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  2    succ:  1    fail:  1    Function:  test_set_managed
+	test_set_managed fail
+		failed to test the company?type=managed 403
+	test_set_managed pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 13:22:10
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 13:22:24total cases: 2
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_set_managed
+	test_set_managed pass
+		succeed to test the company? 0
+	test_set_managed pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 13:22:24
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 17:42:48total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_claim_company
+	test_claim_company fail
+		failed to test the company?type=managed 403
+!!!end test 2015-04-16 17:42:50
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 17:47:35total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_claim_company
+	test_claim_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-16 17:47:38
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-16 17:48:56total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_claim_company
+	test_claim_company pass
+		succeed to test the company? 0
+!!!end test 2015-04-16 17:49:01
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-04-17 11:34:19total cases: 1
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total:  1    succ:  0    fail:  1    Class:     test_company
+total:  1    succ:  0    fail:  1    Function:  test_claim_company
+	test_claim_company fail
+		failed to test the company?type=managed 1
+!!!end test 2015-04-17 11:34:21
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-05 10:36:09total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+!!!end test 2015-05-05 10:36:11
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-05 10:36:26total cases: 4
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+!!!end test 2015-05-05 10:36:27
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-05 10:49:51total cases: 6
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  2    succ:  2    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_count_common
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+!!!end test 2015-05-05 10:49:53
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-05 11:37:25total cases: 6
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  2    succ:  2    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_count_common
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+!!!end test 2015-05-05 11:37:28
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-05 14:26:11total cases: 8
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  3    succ:  3    fail:  0    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_get_company
+total:  2    succ:  2    fail:  0    Function:  test_count_common
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+!!!end test 2015-05-05 14:26:16
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-05 14:31:09total cases: 13
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  5    succ:  5    fail:  0    Class:     test_company
+total:  3    succ:  3    fail:  0    Function:  test_check_company
+total:  2    succ:  2    fail:  0    Function:  test_get_company
+total:  2    succ:  2    fail:  0    Function:  test_count_common
+total:  2    succ:  2    fail:  0    Function:  test_count_all
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_count_all pass
+		succeed to test the company? 0
+	test_count_all pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+!!!end test 2015-05-05 14:31:13
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+!!!start test 2015-05-13 21:37:33total cases: 22
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total: 11    succ:  9    fail:  2    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+total:  2    succ:  2    fail:  0    Function:  test_update_company
+total:  1    succ:  0    fail:  1    Function:  test_claim_company
+total:  2    succ:  2    fail:  0    Function:  test_set_managed
+total:  1    succ:  0    fail:  1    Function:  test_create_company
+total:  1    succ:  1    fail:  0    Function:  test_get_managed
+total:  3    succ:  3    fail:  0    Function:  test_check_company
+total:  2    succ:  2    fail:  0    Function:  test_get_company
+total:  2    succ:  2    fail:  0    Function:  test_count_common
+total:  2    succ:  2    fail:  0    Function:  test_count_all
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_count_all pass
+		succeed to test the company? 0
+	test_count_all pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_get_managed pass
+		succeed to test the company? 0
+	test_create_company fail
+		failed to test the company?type=managed 1
+	test_set_managed pass
+		succeed to test the company? 0
+	test_set_managed pass
+		succeed to test the company? 0
+	test_claim_company fail
+		failed to test the company?type=managed 1
+	test_update_company pass
+		succeed to test the company? 0
+	test_update_company pass
+		succeed to test the company? 0
+	test_create_fast pass
+		succeed to test the company? 0
+	test_create_fast pass
+		succeed to test the company? 0
+!!!end test 2015-05-13 21:37:48
+-----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,221 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />       
+        <meta name="language" content="en" />        
+        <link rel="stylesheet" type="text/css" href="/bugfree/css/form.css" />
+        <link rel="stylesheet" type="text/css" href="/bugfree/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="/bugfree/css/bugfree3_basic.css" />
+        <script type="text/javascript" src="/bugfree/themes/classic/assets/js/overlib.js"></script>
+        <script type="text/javascript" src="/bugfree/themes/classic/assets/js/main.js"></script>
+        <link rel="stylesheet" type="text/css" href="/bugfree/assets/e5b85046/zTreeStyle.css" />
+<link rel="stylesheet" type="text/css" href="/bugfree/assets/e0b188b3/thickbox.css" />
+<link rel="stylesheet" type="text/css" href="/bugfree/assets/e0b188b3/jquery.autocomplete.css" />
+<link rel="stylesheet" type="text/css" href="/bugfree/assets/a3128572/jui/css/base/jquery-ui.css" />
+<title>BugFree</title>
+    </head>
+    <body>
+<div style="height: 100%;">
+    <div id="top">
+        <div id="logo">
+            <a href="/bugfree/index.php/bug/list/1">
+                <img src="/bugfree/themes/classic/assets/images/blue/logo.png"
+                     alt="BugFree" title="BugFree"/>
+            </a>
+        </div>
+        <div id="top-nav">
+            <ul class="menu">
+                <li id="bug">
+                    <a class="selectedtab" href="/bugfree/index.php/bug/list/1" >Bug</a>
+                </li>
+                <li id="case"><a class="" href="/bugfree/index.php/case/list/1">Case</a></li><li id="result"><a class="" href="/bugfree/index.php/result/list/1">Result</a></li>                <li id="createli">
+                </li>
+            </ul>
+        </div>
+        <div id="indexmain" class="maincontainer">
+
+<div id="create_div" >
+    <img style="float:left;" src="/bugfree/themes/classic/assets/images/add.gif">
+    <a href="/bugfree/index.php/info/edit?type=bug&action=opened&product_id=1" target="_blank">&nbsp;新建&nbsp;Bug&nbsp;&nbsp;&nbsp;</a>
+    <img id="create_div_more" src="/bugfree/themes/classic/assets/images/create_down.gif">
+</div>
+<div id="create_template_div" class="createtemplate" style="display:none;" onmouseover="inNewDiv = true;">
+    当前没有模板可使用，请在编辑页面保存模板。</div>
+<div id="leftindex" class="">
+    <div class="leftmenu"><select onchange="window.location=&#039;/bugfree/index.php/info/index?type=bug&amp;product_id=&#039;+$(this).val()" style="font-size:16px;" name="product_name" id="product_name">
+<option value="1" selected="selected">krplus2</option>
+</select></div>    <div id="product_module_tree" class="leftmenu" style="overflow-y:scroll;overflow-x: auto;padding-top: 0px;margin-top: 0px;"></div>
+    
+        <div id="querymenu" class="leftmenu" style="height:auto;position: absolute;bottom:16px;left: 20px;width: 230px;">
+        <div class="title">
+            <a href="#" onclick="setQueryHeight();return false;" style="float:right;margin-top: 0px;_margin-top: -8px;padding: 4px;">
+                <img style="width:16px;" id="query_div_switch" src="/bugfree/themes/classic/assets/images/arrow_down.gif" >
+            </a>
+            我的查询          
+        </div>
+        <div class="querydiv" style="">
+            <ul>
+                <li><a class="basic" href="/bugfree/index.php/bug/list/1?query_id=-3" title="我的标记">我的标记</a></li><li><a class="basic" href="/bugfree/index.php/bug/list/1?query_id=-2" title="指派给我">指派给我</a></li><li><a class="basic" href="/bugfree/index.php/bug/list/1?query_id=-4" title="抄送给我">抄送给我</a></li><li><a class="basic" href="/bugfree/index.php/bug/list/1?query_id=-1" title="由我创建">由我创建</a></li>            </ul>
+        </div>
+    </div>
+</div>
+<div id="expandindex" onclick="expandLeft();" style="display:none;">
+    <table cellpadding="0" cellspacing="0" border="0" style="height:100%;">
+        <tr>
+            <td style="vertical-align: middle;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;width: 10px;">
+                <img src="/bugfree/themes/classic/assets/images/late_left.gif" alt=""/>            </td>
+        </tr>
+    </table>
+</div>
+<div id="rightindex" class="">
+<form method="post" action="/bugfree/index.php/bug/list/1" name="SearchBug" id="SearchBug">
+<input type="hidden" value="1" id="queryaction" name="queryaction">
+<input type="hidden" value="" id="queryTitle" name="queryTitle" >
+<input type="hidden" value="0" id="saveQuery" name="saveQuery">
+<input type="hidden" value="0" id="reset" name="reset">
+<input type="hidden" value="" id="showField" name="showField">
+   <div id="SearchBlankCover" style="background-color: #F0F0F0;">
+   <table id="searchtable" style="background-color: #F0F0F0;">
+    <caption style="padding-bottom: 1px; padding-top: 3px;text-align: center;font-weight: bold;font-size: 13px;">查询条件</caption>
+        <colgroup>
+          <col width="6%" span="1">
+          <col width="20%" span="1">
+          <col width="20%" span="1">
+          <col width="30%" span="1">
+          <col width="6%" span="1">
+          <col width="8%" span="1">
+          <col width="10%" span="1">
+        </colgroup>
+        <tbody>
+            <tr class="SearchConditionRow" id="SearchConditionRow0"><td><input type="hidden" value="" name="BugFreeQuery[leftParenthesesName0]" id="BugFreeQuery_leftParenthesesName0" /></td><td><select id="BugFreeQuery_field0" style="color:#878787;" name="BugFreeQuery[field0]">
+<option value="module_name" selected="selected">模块路径</option>
+</select></td><td><select id="BugFreeQuery_operator0" style="width:100%;color:#878787;" name="BugFreeQuery[operator0]">
+<option value="UNDER" selected="selected">在某路径下</option>
+</select></td><td><input size="16" id="BugFreeQuery_value0" readonly="readonly" style="color:#878787;" type="text" value="krplus2" name="BugFreeQuery[value0]" /></td><td><input type="hidden" value="" name="BugFreeQuery[rightParenthesesName0]" id="BugFreeQuery_rightParenthesesName0" /></td><td><select id="BugFreeQuery_andor0" style="width:60px;color:#878787;" name="BugFreeQuery[andor0]">
+<option value="And" selected="selected">并且</option>
+</select></td><td><a class="add_search_button"  href="javascript:addSearchField(0);"><img src="/bugfree/themes/classic/assets/images/add_search.gif"/></a></td></tr>        <tr>
+        <td colspan="7">
+        <center>
+            <input type="button" onclick="setSearchConditionOrder();submitSearchForm();" value="提交查询" id="PostQuery" name="PostQuery" class="btn">
+            <input type="button" onclick="setSearchConditionOrder();$('#save_query_dialog').dialog('open'); return false;" value="保存查询" id="SaveQuery" name="SaveQuery" class="btn">
+            <input type="button" onclick="$('#reset').attr('value',1);submitSearchForm();" value="重置查询" class="btn">
+        </center>
+        </td>
+    </tr>
+  </tbody></table>
+  <input type="hidden" value="" name="BugFreeQuery[queryRowOrder]" id="BugFreeQuery_QueryRowOrder">
+  </div>
+</form>
+
+<div id="save_query_dialog">
+<table class="dialog-table" >
+      <tbody>
+      <tr>
+        <td style="text-align:center" >
+        <input type="text" maxlength=20 id="dialogQueryTitle" value=""/><br/><br/></td>
+      </tr>
+      <tr>
+        <td style="text-align:center" ><input onclick="saveQuery($(&quot;#dialogQueryTitle&quot;).val());" name="yt0" type="button" value="保存查询" /></td>
+      </tr>
+    </tbody></table></div>
+
+<div id="select_show_field_dialog">
+<table class="dialog-table" id="CustomSetTable">
+      <tbody>
+      <tr align="center" valign="middle" class="BgRow">
+        <td align="left" width="5%">&nbsp;</td>
+        <td width="20%">
+          <fieldset style="border: 0pt none; font-size: 12px;">
+            <legend>可选字段</legend><div id="selectFieldDiv"><select multiple="multiple" style="width:95%;height:200px;" name="fieldsToSelectList" id="fieldsToSelectList">
+<option value="module_name">模块路径</option>
+<option value="bug_status">状态</option>
+<option value="mail_to">抄送给</option>
+<option value="updated_by_name">修改者</option>
+<option value="created_at">创建日期</option>
+<option value="resolved_at">解决日期</option>
+<option value="duplicate_id">重复 Bug</option>
+<option value="closed_by_name">关闭者</option>
+<option value="closed_at">关闭日期</option>
+<option value="related_bug">相关 Bug</option>
+<option value="related_case">相关 Case</option>
+<option value="related_result">相关 Result</option>
+<option value="modified_by">相关编辑者</option>
+<option value="reopen_count">激活次数</option>
+<option value="OpenedBuild">创建 Build</option>
+<option value="BugSubStatus">处理状态</option>
+<option value="BugMachine">机器配置</option>
+<option value="BugKeyword">关键词</option>
+<option value="ResolvedBuild">解决 Build</option>
+<option value="BugType">类型</option>
+<option value="HowFound">如何发现</option>
+<option value="BugOS">操作系统</option>
+<option value="BugBrowser">浏览器</option>
+</select></div></fieldset>
+        </td>
+        <td width="10%">
+            <input style="width:50px" type="button" id="addAllField" name="addAllField" value=">>|"><br>
+            <input style="width:50px" type="button" id="addField" name="addField"  value=">>"><br>
+            <input style="width:50px" type="button" id="deleteField" name="deleteField" value="<<"><br>
+            <input style="width:50px" type="button" id="deleteAllField" name="deleteAllField" value="|<<">
+        </td>
+        <td width="20%">
+          <fieldset style="border: 0pt none; font-size: 12px;">
+          <legend>要显示的字段</legend><div id="showFieldDiv"><select multiple="multiple" style="width:95%;height:200px;" name="fieldsToShowList" id="fieldsToShowList">
+<option value="id">ID</option>
+<option value="severity">严重程度</option>
+<option value="priority">优先级</option>
+<option value="title">Bug标题</option>
+<option value="created_by_name">创建者</option>
+<option value="assign_to_name">指派给</option>
+<option value="resolved_by_name">解决者</option>
+<option value="solution">解决方案</option>
+<option value="updated_at">修改日期</option>
+</select></div></fieldset>
+        </td>
+        <td align="left" width="8%">
+          <input type="button" id="upButton" name="upButton"  style="width: 30px;" value="↑"><br>
+          <input type="button" id="downButton" name="downButton"  style="width: 30px;" value="↓">
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align:center" colspan="5">
+          <input type="button" style="width:120px" onclick="setSelectField();"  value="确定">
+          <input type="button" style="width:120px" id="defaultButton" name="defaultButton"  value="默认字段"><br>
+        </td>
+      </tr>
+    </tbody></table></div><script type="text/javascript" src="/bugfree/themes/classic/assets/js/ajaxfileupload.js"></script>
+
+<div style="display:none" id="import_info_dialog">
+<form id="fileuploader" method="post" action="" enctype="multipart/form-data" style="text-align: center;">
+    <span style="color:red;font-size: 14px;">请注意，注释和步骤的内容应为html格式(如空格为&amp;nbsp)<br/>如不需要编辑请先删除相应的列,以免被误操作</span><br/>
+    <input type="file" id="casefilename" name="casefilename" size="30"/>
+    <br/><br/>
+    <input type="button" id="uploadbutton" class="btn" value="导入" onclick="ajaxFileUpload()"/>
+    <img id="loading" src="/bugfree/themes/classic/assets/images/loading.gif" style="display:none;" />
+</form>
+</div><div id="searchresult-grid">
+<div style="margin:6px 0 0 5px;float:left;"><a onclick="$('#select_show_field_dialog').dialog('open'); return false;" id="CustomSetLink" href="javascript:void(0);">自定义显示</a>&nbsp;|&nbsp;<a href="javascript:exportXml();">导出</a>&nbsp;|&nbsp;<a onclick="$('#import_info_dialog').dialog('open'); return false;" href="javascript:void(0);">导入</a>&nbsp;|&nbsp;<span id="VReport"><a target="_blank" href="/bugfree/index.php/report/index?type=bug&product_id=1">统计报表</a></span></div><div class="pager"><b>1</b>/<b>1</b>页 总数:<b>1</b><select class="page-size" onchange="var data = {&quot;pagesize&quot;: $(this).val()};$.get(&quot;/bugfree/index.php/page/setPageSize&quot;, data, function(){window.location.href=window.location.href;window.location.reload;});" name="pageSize" id="pageSize">
+<option value="10">10</option>
+<option value="20" selected="selected">20</option>
+<option value="35">35</option>
+<option value="50">50</option>
+<option value="100">100</option>
+</select><ul id="yw0" class="yiiPager"><li class="first hidden"><a href="/bugfree/index.php/bug/list/1">首页</a></li>
+<li class="previous hidden"><a href="/bugfree/index.php/bug/list/1">上一页</a></li>
+<li class="next hidden"><a href="/bugfree/index.php/bug/list/1">下一页</a></li>
+<li class="last hidden"><a href="/bugfree/index.php/bug/list/1">尾页</a></li></ul></div><div id="SearchResultDiv" style="overflow: auto; width:100%; "><table style="white-space:nowrap"  class="items">
+<thead>
+<tr>
+<th id="searchresult-grid_c0"><a href="/bugfree/index.php/bug/list/1?sort=mark-id.desc">标记</a></th><th id="searchresult-grid_c1"><a class="desc" href="/bugfree/index.php/bug/list/1?sort=id">ID</a></th><th id="searchresult-grid_c2"><a href="/bugfree/index.php/bug/list/1?sort=severity-id.desc">严重程度</a></th><th id="searchresult-grid_c3"><a href="/bugfree/index.php/bug/list/1?sort=priority-id.desc">优先级</a></th><th id="searchresult-grid_c4"><a href="/bugfree/index.php/bug/list/1?sort=title-id.desc">Bug标题</a></th><th id="searchresult-grid_c5"><a href="/bugfree/index.php/bug/list/1?sort=created_by_name-id.desc">创建者</a></th><th id="searchresult-grid_c6"><a href="/bugfree/index.php/bug/list/1?sort=assign_to_name-id.desc">指派给</a></th><th id="searchresult-grid_c7"><a href="/bugfree/index.php/bug/list/1?sort=resolved_by_name-id.desc">解决者</a></th><th id="searchresult-grid_c8"><a href="/bugfree/index.php/bug/list/1?sort=solution-id.desc">解决方案</a></th><th id="searchresult-grid_c9"><a href="/bugfree/index.php/bug/list/1?sort=updated_at-id.desc">修改日期</a></th></tr>
+</thead>
+<tbody>
+<tr class="bugstatus_active"><td style="text-align:center;"><a id="marklink1" name="marklink1" href="javascript:mark(1,1);void(0);"><img src="/bugfree/themes/classic/assets/images/flag_1.gif"/></a></td><td>1</td><td><a href="/bugfree/index.php/bug/list/1?filter=severity%7C4">4</a></td><td><a href="/bugfree/index.php/bug/list/1?filter=priority%7C4">4</a></td><td class="title"><span class="title"><a href="/bugfree/index.php/bug/1" target="_blank" title="Sample：欢迎使用BugFree！">Sample：欢迎使用BugFree！</a></span></td><td><a href="/bugfree/index.php/bug/list/1?filter=created_by_name%7C%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%91%98">系统管理员</a></td><td><a href="/bugfree/index.php/bug/list/1?filter=assign_to_name%7CActive">Active</a></td><td><a href="/bugfree/index.php/bug/list/1?filter=resolved_by_name%7C"></a></td><td><a href="/bugfree/index.php/bug/list/1?filter=solution%7C"></a></td><td><a href="/bugfree/index.php/bug/list/1?filter=updated_at%7C2014-09-29">2014-09-29</a></td></tr>
+</tbody>
+</table></div></div></div>
+            </div>
+        </div>
+</body>
+</html>
+

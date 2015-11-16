@@ -1,0 +1,42 @@
+- :name: _gat
+  :value: '1'
+  :path: /
+  :domain: .36kr.com
+  :expires: 2015-04-16 20:58:55.999999917 +08:00
+  :secure: false
+- :name: krid_user_version
+  :value: '2'
+  :path: /
+  :domain: .36kr.com
+  :expires: 2035-04-16 20:49:20.487560020 +08:00
+  :secure: false
+- :name: krid_user_id
+  :value: '134582'
+  :path: /
+  :domain: .36kr.com
+  :expires: 2035-04-16 20:49:20.487649916 +08:00
+  :secure: false
+- :name: _auth_session
+  :value: 498a3e4713cc0a5dc01e81126fcd7c2b
+  :path: /
+  :domain: .36kr.com
+  :expires: 2018-04-16 20:49:20.487720009 +08:00
+  :secure: false
+- :name: kr_plus_id
+  :value: '735'
+  :path: /
+  :domain: .36kr.com
+  :expires: 2015-04-23 20:49:19.676030022 +08:00
+  :secure: false
+- :name: kr_plus_token
+  :value: a5c9b32d60b7d36fd47e3060ae4ae392bce75d22
+  :path: /
+  :domain: .36kr.com
+  :expires: 2015-04-23 20:49:19.676110174 +08:00
+  :secure: false
+- :name: _ga
+  :value: GA1.2.490057376.1429188535
+  :path: /
+  :domain: .36kr.com
+  :expires: 2017-04-15 20:49:21.000000034 +08:00
+  :secure: false

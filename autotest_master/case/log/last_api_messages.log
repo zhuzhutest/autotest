@@ -1,0 +1,63 @@
+!!!start test 2015-05-13 21:37:33total cases: 22
+skip case is: []
+there is 1 failed!!!
+
+detail as follows:
+total:  1    succ:  0    fail:  1    Stream:    TEST_KR
+total: 11    succ:  9    fail:  2    Class:     test_company
+total:  2    succ:  2    fail:  0    Function:  test_create_fast
+total:  2    succ:  2    fail:  0    Function:  test_update_company
+total:  1    succ:  0    fail:  1    Function:  test_claim_company
+total:  2    succ:  2    fail:  0    Function:  test_set_managed
+total:  1    succ:  0    fail:  1    Function:  test_create_company
+total:  1    succ:  1    fail:  0    Function:  test_get_managed
+total:  3    succ:  3    fail:  0    Function:  test_check_company
+total:  2    succ:  2    fail:  0    Function:  test_get_company
+total:  2    succ:  2    fail:  0    Function:  test_count_common
+total:  2    succ:  2    fail:  0    Function:  test_count_all
+total:  4    succ:  4    fail:  0    Function:  test_company_list
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_company_list pass
+		succeed to test the company? 0
+	test_count_all pass
+		succeed to test the company? 0
+	test_count_all pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_count_common pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_get_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_check_company pass
+		succeed to test the company? 0
+	test_get_managed pass
+		succeed to test the company? 0
+	test_create_company fail
+		failed to test the company?type=managed 1
+	test_set_managed pass
+		succeed to test the company? 0
+	test_set_managed pass
+		succeed to test the company? 0
+	test_claim_company fail
+		failed to test the company?type=managed 1
+	test_update_company pass
+		succeed to test the company? 0
+	test_update_company pass
+		succeed to test the company? 0
+	test_create_fast pass
+		succeed to test the company? 0
+	test_create_fast pass
+		succeed to test the company? 0
+!!!end test 2015-05-13 21:37:48

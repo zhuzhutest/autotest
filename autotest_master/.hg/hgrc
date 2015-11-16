@@ -1,0 +1,5 @@
+[paths]
+default = ssh://dev@121.201.8.132//home/autotest/
+[ui]
+username=zhuguoliang
+debug=true

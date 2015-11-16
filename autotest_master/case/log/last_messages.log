@@ -1,0 +1,10 @@
+!!!start test 2015-04-08 19:04:16total cases: 1
+skip case is: []
+
+all test case pass
+total:  1    succ:  1    fail:  0    Stream:    TEST_KR
+total:  1    succ:  1    fail:  0    Class:     test_company
+total:  1    succ:  1    fail:  0    Function:  test_managed
+	test_managed pass
+		succeed to test the api
+!!!end test 2015-04-08 19:04:16
