@@ -2,7 +2,7 @@ $LOAD_PATH.unshift(File.dirname(__FILE__)) unless $LOAD_PATH.include?(File.dirna
 require 'date'
 require 'timeout'
 
-require File.dirname(__FILE__)+'/mail'
+require File.dirname(__FILE__)+'/mail.rb'
 require File.dirname(__FILE__)+'/global'
 
 #MAIL_PICTURE_FUNC = { "TEST_LOGIN"=>["TEST"], "TEST_DNS" => ["test_edit_soa", "test_create_zone", "test_create_domain"], "TEST_SYSTEM"=>["test_auto_backup"], "TEST_AD"=>["test_add_ad"], "TEST_RECURSION"=>["test_create_forward_zone", "test_create_redirect"]}

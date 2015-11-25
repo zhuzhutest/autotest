@@ -1,10 +1,11 @@
 function news_list(sheet){
 	test("new_list", function(tar,app){
 		var window_ = app.mainWindow();
-		//app.tabBar().buttons()["新闻"].tap();
+		app.tabBar().buttons()["新闻"].tap();
 		window_.scrollViews()[1].buttons()[sheet].tap();
-		var sheet_name = app.windows()[0].scrollViews()[0].collectionViews()[0].cells()["Nicholas 2小时前"].staticTexts()["O2O"];
-		assertNotNull(sheet, "suss");
+		var sheet_name = window_.scrollViews()[1].buttons()[sheet].withName();
+		//staticTexts()["O2O"];
+		assertEquals(sheet, sheet_name, "suss");
 		});
 }
 

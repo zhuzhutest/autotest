@@ -4,7 +4,6 @@ require File.dirname(__FILE__)+'/../run_case.rb'
 # TEST_IOS_NEWS.new
 
 ##############  UI #######################/s
-
 ui_casesuit = {"TEST_PROJECT" => %w[test_creat_project]}
 
 ##############  UI #######################
